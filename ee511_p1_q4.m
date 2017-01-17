@@ -7,7 +7,7 @@
 % reaching a user specified positive number of heads
 
 
-clc
+clc;
 clear all;
 No_of_heads = input('Enter number of heads : '); % User specified no of heads
 track_head = 0;                                  % Counter to track heads     
