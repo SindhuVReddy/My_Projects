@@ -3,7 +3,7 @@
 % USC ID : 8047774699
 % Email : valasare@usc.edu
 % EE 511 : Project #1 - Coin Flips
-% Question 1a : Tossing a fair coin 50 times for 20,100,200 and 1000 times
+% Question 1a : Tossing a fair coin 50 times for 20, 100,200 and 1000 times
 % and to generate a histogram for each showing no of heads in 50 flips
 
  clc
