@@ -5,7 +5,7 @@
 % EE 511 : Project #1 - Coin Flips
 % Question 3 : Tossing a fair coin 100 times. Generate a histogram showing the heads run length
 
-clc;
+clc
 clear all;
 No_of_tosses = 100;                              % No of tosses as given
 Outcomes = rand(1,No_of_tosses) > 0.5;           % Generate random numbers between [0,1] where numbers > 0.5 are Heads and < 0.5 are Tails
