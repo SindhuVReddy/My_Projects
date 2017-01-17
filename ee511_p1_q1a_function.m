@@ -1,7 +1,7 @@
 % Date : January 15 2017
 % Name : Sindhu Valasa Reddy
 % USC ID : 8047774699
-% Email : valasare@usc.edu
+% Email : valasare@usc.edu        
 % EE 511 : Project #1 - Coin Flips
 % User Defined Function which calculates and returns the number of heads in 50 flips
 % when given the No of Trials of 50 flips
