@@ -8,7 +8,7 @@
 % for the Bernoulli outcomes
 
 
-clc
+clc;
 clear all;
 No_of_tosses = 200;                     % No of tosses as given
 track_head = 0;                         % Initialise the tracking of heads count to 0
